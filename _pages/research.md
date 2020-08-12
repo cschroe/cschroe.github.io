@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
-
+Works in Progress
