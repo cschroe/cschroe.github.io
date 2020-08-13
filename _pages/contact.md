@@ -3,7 +3,7 @@ layout: splash
 title: ""
 permalink: /contact/
 author_profile: false
-
+---
 
 Christofer Schroeder  
 Department of Economics  
