@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{site.url}}/images/bio-photo-2.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="{{site.url}}/images/bio-photo-2.jpg" width="300" align="right" style="display: block; margin-right: 40px;" /> 
 
 I am a PhD Student in Economics at the Stockholm School of Economics.
 
