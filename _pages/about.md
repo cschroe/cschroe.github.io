@@ -6,6 +6,7 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
 ---
 
 <img src="{{site.url}}/images/bio-photo-2.jpg" width="300" align="right" style="display: block; margin-right: 40px;" /> 
