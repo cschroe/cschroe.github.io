@@ -10,7 +10,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="{{site.url}}/images/IMG_3832.jpeg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="{{site.url}}/images/SCH01746.jpeg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
 
 I am a PhD Student in Economics at the Stockholm School of Economics.
 
