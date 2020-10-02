@@ -13,8 +13,9 @@ Box 6501
 Sweden
 
 Phone: +1 403 852 3449
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+46 72 585 8823
++46 72 585 8823
 
 Email: christofer.schroeder at phdstudent.hhs.se
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
