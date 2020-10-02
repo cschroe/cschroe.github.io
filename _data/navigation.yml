@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /files/schroeder_cv_jm.pdf   
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+    #url: /teaching/    
     
   - title: "Contact"
     url: /contact/
