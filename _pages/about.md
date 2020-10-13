@@ -16,7 +16,7 @@ I am a PhD Student in Economics at the Stockholm School of Economics.  I have re
 
 Prior to my doctoral studies, I obtained an MSc from the Humboldt Universität zu Berlin and a BA & BComm from the University of Calgary.
 
-I am on the job market in 2020/2021.  You can find my CV [here](https://cschroe.github.io/files/schroeder_cv_jm.pdf).
+I am on the job market in 2020/2021.  You can find my CV [here](https://www.dropbox.com/s/jf76rlxifl051i2/schroeder_cv_jm.pdf?dl=0).
 
 <!-- You can contact me at christofer.schroeder at phdstudent.hhs.se -->
 
