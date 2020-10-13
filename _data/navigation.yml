@@ -4,7 +4,8 @@ main:
     url: /research/
 
   - title: "CV"
-    url: /files/schroeder_cv_jm.pdf   
+    url: https://www.dropbox.com/s/jf76rlxifl051i2/schroeder_cv_jm.pdf?dl=0
+    #url: /files/schroeder_cv_jm.pdf   
 
   #- title: "Teaching"
     #url: /teaching/    
