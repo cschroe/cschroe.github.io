@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ## Job Market Paper
-"Real Effects of Credit Supply Shocks: Evidence from Danish Banks, Firms, and Workers" with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx)
+["Real Effects of Credit Supply Shocks: Evidence from Danish Banks, Firms, and Workers"](https://www.dropbox.com/s/qqpvkbzdtt91vub/schroeder_jmp.pdf?dl=0) with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx)
 
 Abstract: Recent evidence points to significant, real effects of reductions in firms' credit supply during the 2008/2009 financial crisis on firm level employment, yet little is known how these shocks affected the composition of firms' labour inputs and outcomes at the worker level.  In this paper we use bank-firm-worker matched data from Denmark to explore the role that firm credit supply played in explaining patterns of employment and worker outcomes during the Great Recession.  We identify a relative drop in lending from Danish banks that were particularly exposed to the financial crisis.  We then show that firms primarily connected to more exposed banks pre-crisis were unable to cover the reduction in credit by accessing financing from alternate sources, and that this was accompanied by a significant drop in employment.
 
