@@ -16,7 +16,7 @@ I am a PhD Student in Economics at the Stockholm School of Economics.  I have re
 
 Prior to my doctoral studies, I obtained an MSc from the Humboldt Universität zu Berlin and a BA & BComm from the University of Calgary.
 
-I am on the job market and available for interviews before, during, and after the (virtual) European Job Market and the 2021 AEA/ASSA meetings.  
+I am on the job market and available for interviews before, during, and after the virtual European Job Market and the virtual 2021 AEA/ASSA meetings.  
 
 You can find my CV [here](https://www.dropbox.com/s/jf76rlxifl051i2/schroeder_cv_jm.pdf?dl=0) and my job market paper [here](https://www.dropbox.com/s/qqpvkbzdtt91vub/schroeder_jmp.pdf?dl=0).
 
