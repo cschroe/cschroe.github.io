@@ -14,7 +14,7 @@ classes: wide
 
 I am a PhD Student in Economics at the Stockholm School of Economics.  I have research interests in labour economics and finance.
 
-Prior to my doctoral studies, I obtained an MSc from the Humboldt Universität zu Berlin and a BA & BComm from the University of Calgary.
+Prior to my doctoral studies, I obtained an MSc from the Humboldt-Universität zu Berlin and a BA & BComm from the University of Calgary.
 
 I am on the job market and available for interviews before, during, and after the virtual European Job Market and the virtual 2021 AEA/ASSA meetings.  
 
