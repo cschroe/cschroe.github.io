@@ -17,3 +17,4 @@ Phone: +1 403 852 3449
 
 Email: christofer.schroeder at phdstudent.hhs.se
 
+[LinkedIn](https://www.linkedin.com/in/christofer-schroeder-4439b91b4)
