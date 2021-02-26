@@ -18,4 +18,7 @@ Bank lending cuts can lead firms to reduce their level of employment, yet little
 A large literature documents that individuals with low income are more prone to commit crime. While social scientists have come up with a wide range of theories accounting for the relationship between criminal and economic status, convincing empirical evidence on the casual effect of wealth or income on crime is scant. In this paper, we use data on Swedish lottery players to investigate how positive wealth shocks affect criminal behavior. Matching players to their children, we also estimate the effect of parental wealth on children’s delinquency. Our data offer two key advantages: first, as we observe the factors conditional on which lottery wins are randomly assigned, we are able to isolate and utilize the exogenous variation in lottery wins. Second, the large number of winners (over 400,000) implies estimates are precise. To limit concerns of data mining, we specify all key aspects of the statistical analyses in a pre-analysis plan before undertaking any analyses.
 <br/><br/>
 
+"*A Model of Search in Credit and Labour Markets*"
+<br/><br/>
+
 "*Outside Options in the Market for Banks*" with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx){:target="_blank"}
