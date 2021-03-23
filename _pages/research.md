@@ -19,6 +19,8 @@ A large literature documents that individuals with low income are more prone to 
 <br/><br/>
 
 "*A Model of Search in Credit and Labour Markets*"
+
+How do frictions in credit markets affect firms' choices over which workers to hire?  To study this question, I build a search and matching model of credit and labour markets with heterogenous labour.  Firms first search for a bank to cover the costs of posting a vacancy.  Firms that secure financing then search for workers of varying skill in the labour market.  Upon meeting a worker the firm faces a trade-off: hire that worker in the present period and produce output, or wait for a potentially higher skilled worker to come along.  Firms' optimal behaviour is determined by tightness in the labour market, itself determined by frictions in both credit and labour markets.  Greater credit market frictions drive labour market tightness down, leading firms to seek higher skilled workers.  I then take this model to the data to study quantitative implications of parameter choices and responses to exogenous shocks.
 <br/><br/>
 
 "*Outside Options in the Market for Banks*" with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx){:target="_blank"}
