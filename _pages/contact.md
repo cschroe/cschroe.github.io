@@ -12,7 +12,8 @@ author_profile: false
 <!-- 113 83 Stockholm --> 
 <!-- Sweden -->
 
-Phone: +1 403 852 3449 (Canada) 
+Phone: +1 403 852 3449 (Canada)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +49 151 17293548 (Europe)
 
 Email: schroeder.chris at gmail.com
