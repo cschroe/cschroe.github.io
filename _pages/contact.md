@@ -13,7 +13,7 @@ author_profile: false
 <!-- Sweden -->
 
 Phone: +1 403 852 3449 (Canada) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+49 151 17293548 (Europe)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +49 151 17293548 (Europe)
 
 Email: schroeder.chris at gmail.com
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;christofer.schroeder at phdstudent.hhs.se -->
