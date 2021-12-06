@@ -10,7 +10,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="{{site.url}}/images/SCH01746.jpeg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="{{site.url}}/images/SCH01746.jpeg" width="300" align="left" style="display: block; margin-right: 50px;" /> 
 
 I hold a PhD in Economics from the Stockholm School of Economics.  My research interests are broadly within the fields of labour economics and finance.
 
