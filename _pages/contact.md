@@ -12,11 +12,11 @@ author_profile: false
 <!-- 113 83 Stockholm --> 
 <!-- Sweden -->
 
-Phone: +1 403 852 3449 (Canada)
+Phone: +49 151 17293548 (Europe)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +49 151 17293548 (Europe)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +1 403 852 3449 (Canada)
 
-Email: schroeder.chris at gmail.com
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;christofer.schroeder at phdstudent.hhs.se -->
+Email: christofer.schroeder at ecb.europa.eu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; schroeder.chris at gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/christofer-schroeder-4439b91b4){:target="_blank"}
