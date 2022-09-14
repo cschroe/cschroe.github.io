@@ -28,4 +28,7 @@ How do frictions in credit markets affect firms' choices over which workers to h
 "*Globalization and the Geography of Emissions*" with Livio Stracca
 <br/><br/>
 
+"*Inflation in Emerging Market Economies: Domestic and Global Drivers Through the Lens of the Phillips Curve*" with Larry Cui and Marcel Tirpák
+<br/><br/>
+
 "*Outside Options in the Market for Banks*" with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx){:target="_blank"}
