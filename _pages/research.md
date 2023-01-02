@@ -13,7 +13,6 @@ Bank lending cuts can lead firms to reduce their level of employment, yet little
 <br/><br/>
 
 ["*Carbon Taxes, Globalization, and the Geography of Emissions*"](https://cschroe.github.io/files/schroeder_stracca_emissions.pdf){:target="_blank"} with Livio Stracca
-<br/><br/>
 
 This paper studies the impact of national carbon taxes on emissions. To do so, we construct a cross-country panel dataset, matching measures of emissions of carbon dioxide with information on the introduction of carbon taxes and their implied price on carbon. Importantly, we consider both measures of *territorial* emissions - emissions emitted within a country's borders - and *consumption* emissions - emissions emitted anywhere in the world to satisfy domestic demand. Using panel local projection methods, we find that carbon taxes reduce territorial emissions over time, but have no significant effect on consumption emissions. Our estimates are robust to propensity-score weighting adjustments and are driven by countries which are more open to trade. Carbon taxes also lead to a modest increase in imports, suggesting that international trade may act as a conduit for reallocating the production of emissions to locations where carbon is not taxed. Overall, our results highlight the importance of international cooperation in reducing global levels of emissions.
 <br/><br/>
