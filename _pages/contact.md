@@ -12,11 +12,11 @@ author_profile: false
 <!-- 113 83 Stockholm --> 
 <!-- Sweden -->
 
-Christofer Schroeder
-European Central Bank
-Sonnemannstraße 20
-60314 Frankfurt am Main
-Germany
+Christofer Schroeder  
+European Central Bank  
+Sonnemannstraße 20  
+60314 Frankfurt am Main  
+Germany  
 
 Phone: +49 69 1344 23686
 
@@ -24,6 +24,6 @@ Phone: +49 69 1344 23686
 
 Email: christofer.schroeder at ecb.europa.eu
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; schroeder.chris at gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; schroeder.chris at gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/christofer-schroeder-4439b91b4){:target="_blank"}
