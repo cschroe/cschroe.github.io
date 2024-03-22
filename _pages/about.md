@@ -14,7 +14,7 @@ classes: wide
 
 I am an Economist Graduate Programme Participant at the European Central Bank. 
 
-I hold a PhD in Economics from the Stockholm School of Economics.  My research interests are broadly within the fields of labour economics, applied macroeconomics, and finance.
+I hold a PhD in Economics from the Stockholm School of Economics.  My research interests are broadly within the fields of labour economics, applied macroeconomics, and climate.
 
 Prior to my doctoral studies, I obtained an MSc from the Humboldt-Universität zu Berlin and a BA & BComm from the University of Calgary.
 
