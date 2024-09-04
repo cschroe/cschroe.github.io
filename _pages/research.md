@@ -20,6 +20,12 @@ This paper studies the impact of national carbon taxes on emissions. To do so, w
 There is a well-established negative gradient between economic status and crime, but its underlying causal mechanisms are not well understood. We use data on four Swedish lotteries matched to data on criminal convictions to gauge the causal effect of financial windfalls on player's own crime and their children's delinquency. We estimate a positive but statistically insignificant effect of lottery wealth on players' own conviction risk. Our estimates allow us to rule out effects one fifth as large as the cross-sectional gradient between income and crime. We also estimate a less precise null effect of parental lottery wealth on child delinquency.
 <br/><br/>
 
+["*What Shapes Spillovers from Monetary Policy Shocks in the United States to Emerging Market Economies?*"](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2862~47f293b3f5.en.pdf){:target="_blank"} with with Erik Andres-Escayola, Peter McQuade, and Marcel Tirpák. ECB Working Paper No. 2973
+
+Monetary policy decisions by the Federal Reserve System in the US are widely recognised to have spillover effects on the rest of the world. In this paper, we focus on the asymmetric effects of US monetary policy shocks on macro-financial outcomes in emerging market economies (EMEs). We shed light on how domestic factors shape external monetary policy spillover effects using indicators on the macro-financial vulnerabilities and monetary policy stances of EMEs. We find that a surprise tightening of monetary policy in the US leads to an immediate tightening of financial conditions which leads to a decline in activity and prices in EMEs over one year. Importantly, these effects are amplified in periods of high vulnerabilities and attenuated when EMEs follow a prudent monetary policy stance. Our findings help explain the greater resilience of many EMEs to the Fed’s post-COVID-19 tightening cycle, and highlight the benefits of the broad improvements of monetary policy frameworks in these countries.
+
+<br/><br/>
+
 ## Works in Progress
 ["*Real Effects of Credit Supply Shocks: Evidence from Danish Banks, Firms, and Workers*"](https://cschroe.github.io/files/schroeder_jmp.pdf){:target="_blank"} with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx){:target="_blank"}
 * Winner of the [Ola Bengtsson Award](https://www.hhs.se/en/houseoffinance/outreach/news--press/news/2020/ola-bengtsson-award-for-best-finance-phd-paper/){:target="_blank"} for best paper at the SHoF/SSE 9th National PhD Workshop in Finance
@@ -30,9 +36,6 @@ Bank lending cuts can lead firms to reduce their level of employment, yet little
 ["*A Model of Search in Credit and Labour Markets with Heterogeneous Workers*"](https://cschroe.github.io/files/schroeder_bank_labour_search.pdf){:target="_blank"}
 
 How do frictions in credit markets affect firms' choices over which workers to hire?  To study this question, I build a search and matching model of credit and labour markets with heterogeneous labour.  Firms first search for a bank to cover the costs of posting a vacancy.  Firms that secure financing then search for workers of varying skill in the labour market.  Upon meeting a worker the firm faces a trade-off: hire that worker in the present period and produce output, or wait for a potentially higher skilled worker to come along.  Firms' optimal behaviour is determined by tightness in the labour market, itself determined by frictions in both credit and labour markets.  Greater credit market frictions drive labour market tightness down, leading firms to seek higher skilled workers.
-<br/><br/>
-
-"*What Shapes Spillovers from Monetary Policy Shocks in the United States to Emerging Market Economies*" with Erik Andres-Escayola, Peter McQuade, and Marcel Tirpák
 <br/><br/>
 
 <!-- "*Inflation in Emerging Market Economies: Domestic and Global Drivers Through the Lens of the Phillips Curve*" with Larry Cui and Marcel Tirpák
