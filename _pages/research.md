@@ -47,3 +47,17 @@ How do differences in job seekers' liquidity during unemployment affect their re
 <br/><br/> -->
 
 <!-- "*Outside Options in the Market for Banks*" with [Simon Juul Hviid](https://www.nationalbanken.dk/en/research/economists/Pages/Simon-Juul-Hviid.aspx){:target="_blank"} -->
+
+[//]: This java script is the button to show abstract
+ <script>
+  function visib(id) {
+   var x = document.getElementById(id);
+   if (x.style.display === "block") {
+     x.style.display = "none";
+   } else {
+     x.style.display = "block";
+   }
+ }
+ </script>
+
+ [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
