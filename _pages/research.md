@@ -6,11 +6,14 @@ author_profile: false
 ---
 ## Working Papers
 ["**Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions**"](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2862~47f293b3f5.en.pdf){:target="_blank"} with Livio Stracca. ECB Working Paper No. 2862, accepted *IMF Economic Review*
-* <small>[<a href="#/" onclick="visib('abstract_uidelays')">Click to View Abstract</a> | [Draft][draft_uidelays]]</small>
+
+<small>[<a href="#/" onclick="visib('abstract_uidelays')">Click to View Abstract</a> | [Draft][draft_uidelays]]</small>
 
 <div id="abstract_uidelays" style="display: none; text-align: justify; line-height: 100%" ><small>
 How do differences in job seekers' liquidity during unemployment affect their reemployment and long-term earnings trajectories? We examine a novel source of variation: delays in unemployment insurance (UI) benefit payments. These delays create high-frequency variation in claimants' cash-on-hand by only shifting timing rather than the total amount of benefits received. We leverage plausibly random delays during a 2013 California UI system glitch that temporarily froze benefit payments for a subset of active claimants. To minimize residual differences between delayed and non-delayed claimants, our research design further matches on a rich set of demographics, earnings histories, and pre-outage claim histories. The mean claimant affected by the glitch had a total of \$825 in UI benefits delayed, and waited an average of 34 days before all benefits were eventually paid. In the short run, claimants with delayed payments exit UI earlier, are employed faster, earn 4.6% higher wages at subsequent firms, and find better idiosyncratic worker-firm matches. These effects are highly persistent over time: five years after the system glitch, delayed claimants have 2.5 percentage points higher likelihood of employment, \$500 higher labor earnings each quarter, and 5% higher earnings conditional on employment. We find that these effects are largest among claimants affected early into their unemployment spell. Our results are consistent with a model of job search incorporating duration dependence: UI benefits increase the duration of unemployment spells, reducing reemployment rates and future wages. 
 </small><br><br/></div>
+
+
 * Media coverage: [VoxEU](https://cepr.org/voxeu/columns/carbon-leakage-additional-argument-international-cooperation-climate-policies){:target="_blank"}
 <!-- This paper studies the impact of national carbon taxes on emissions. To do so, we construct a cross-country panel dataset, matching measures of emissions of carbon dioxide with information on the introduction of carbon taxes and their implied price on carbon. Importantly, we consider both measures of *territorial* emissions - emissions emitted within a country's borders - and *consumption* emissions - emissions emitted anywhere in the world to satisfy domestic demand. Using panel local projection methods, we find that carbon taxes reduce territorial emissions over time, but have no significant effect on consumption emissions. Our estimates are robust to propensity-score weighting adjustments and are driven by countries which are more open to trade. Carbon taxes also lead to a modest increase in imports, suggesting that international trade may act as a conduit for reallocating the production of emissions away from locations where carbon is taxed. Together, our findings highlight the limitations of national carbon taxes in isolation, and the importance of international cooperation in reducing global emissions. -->
 <br/><br/>
@@ -34,7 +37,7 @@ How do differences in job seekers' liquidity during unemployment affect their re
 
 
 ## Works in Progress
-"**Evaluating the Impact of Weather on Employment in the Euro Area**" with Miles Parker
+"**Evaluating the Impact of Weather on Employment in the Euro Area**" with Miles Parker, *draft coming soon!*
 
 ["**A Model of Search in Credit and Labour Markets with Heterogeneous Workers**"](https://cschroe.github.io/files/schroeder_bank_labour_search.pdf){:target="_blank"}
 <!-- How do frictions in credit markets affect firms' choices over which workers to hire?  To study this question, I build a search and matching model of credit and labour markets with heterogeneous labour.  Firms first search for a bank to cover the costs of posting a vacancy.  Firms that secure financing then search for workers of varying skill in the labour market.  Upon meeting a worker the firm faces a trade-off: hire that worker in the present period and produce output, or wait for a potentially higher skilled worker to come along.  Firms' optimal behaviour is determined by tightness in the labour market, itself determined by frictions in both credit and labour markets.  Greater credit market frictions drive labour market tightness down, leading firms to seek higher skilled workers. -->
