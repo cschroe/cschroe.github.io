@@ -20,6 +20,8 @@ Germany
 
 Phone: +49 69 1344 23686
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +1 403 852 3449 -->
+
 Email: christofer.schroeder at ecb.europa.eu
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; schroeder.chris at gmail.com -->
+
 [LinkedIn](https://www.linkedin.com/in/christofer-schroeder-4439b91b4){:target="_blank"}
