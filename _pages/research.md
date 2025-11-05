@@ -37,7 +37,7 @@ Monetary policy decisions by the Federal Reserve System in the US are widely rec
 <br/>
 
 ## Publications
-Schroeder, C. and Stracca, L. (2025). [Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions](https://doi.org/10.1057/s41308-025-00288-9){:target="_blank"}, *IMF Economic Review*
+Schroeder, C. and Stracca, L. (2025). [Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions](https://doi.org/10.1057/s41308-025-00288-9){:target="_blank"}, *IMF Economic Review*.
 * Working paper: [ECB Working Paper No. 2862](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2862~47f293b3f5.en.pdf){:target="_blank"}
 * Media coverage: [VoxEU](https://cepr.org/voxeu/columns/carbon-leakage-additional-argument-international-cooperation-climate-policies){:target="_blank"}
 * <a href="#/" onclick="visib('abstract_carbontaxes')">Abstract</a>
