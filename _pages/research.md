@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: false
 ---
 ## Working Papers
-**Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions** with Livio Stracca 
+<!--**Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions** with Livio Stracca 
 * Accepted *IMF Economic Review*
 * Working paper: [ECB Working Paper No. 2862](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2862~47f293b3f5.en.pdf){:target="_blank"}
 * Media coverage: [VoxEU](https://cepr.org/voxeu/columns/carbon-leakage-additional-argument-international-cooperation-climate-policies){:target="_blank"}
 * <a href="#/" onclick="visib('abstract_carbontaxes')">Abstract</a>
 <div id="abstract_carbontaxes" style="display: none; text-align: justify; line-height: 100%" ><small>
 This paper examines the impact of national carbon taxes on CO2 emissions. To achieve this, we conduct local projections on a cross-country panel dataset, aligning measures of carbon dioxide emissions with data on the introduction of carbon taxes and their associated prices. Importantly, we consider both territorial emissions — those emitted within a country's borders — and consumption emissions — those emitted globally to satisfy domestic demand. We find that carbon taxes reduce territorial emissions over time but have no significant effect on consumption emissions. Our estimates are robust to propensity-score weighting adjustments, controlling for the role of other environmental policies, and are primarily driven by countries that are more open to trade. In contrast, we find that variation in carbon prices from the European Union's Emissions Trading System (ETS) have a negative impact on both territorial and consumption emissions. Overall, our findings underscore the limitations of national carbon pricing schemes and emphasize the importance of international cooperation in reducing global emissions.</small></div>
-<br/>
+<br/> -->
 **Real Effects of Credit Supply Shocks: Evidence from Danish Banks, Firms, and Workers** with [Simon Juul Hviid](https://sites.google.com/view/sjhviid/home){:target="_blank"}
 * Revision requested *European Economic Review*
 * Working paper: [ECB Working Paper No. 3001](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3001~2650b4b003.en.pdf?10f15586e9ccf06b6ad71338f95814a6){:target="_blank"}, [Danmarks Nationalbank Working Paper No. 206](https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/working-paper/2024/real-effects-of-credit-supply-shocks-evidence-from-danish-banks-firms-and-workers){:target="_blank"}
@@ -34,6 +34,15 @@ There is a well-established negative gradient between economic status and crime,
 * <a href="#/" onclick="visib('abstract_emes')">Abstract</a>
 <div id="abstract_emes" style="display: none; text-align: justify; line-height: 100%" ><small>
 Monetary policy decisions by the Federal Reserve System in the US are widely recognised to have spillover effects on the rest of the world. In this paper, we focus on the asymmetric effects of US monetary policy shocks on macro-financial outcomes in emerging market economies (EMEs). We shed light on how domestic factors shape external monetary policy spillover effects using indicators on the macro-financial vulnerabilities and monetary policy stances of EMEs. We find that a surprise tightening of monetary policy in the US leads to an immediate tightening of financial conditions which leads to a decline in activity and prices in EMEs over one year. Importantly, these effects are amplified in periods of high vulnerabilities and attenuated when EMEs follow a prudent monetary policy stance. Our findings help explain the greater resilience of many EMEs to the Fed's post-COVID-19 tightening cycle, and highlight the benefits of the broad improvements of monetary policy frameworks in these countries.</small></div>
+<br/>
+
+## Publications
+Schroeder, C. and Stracca, L. (2025). [Pollution Havens? Carbon Taxes, Globalization, and the Geography of Emissions](https://doi.org/10.1057/s41308-025-00288-9){:target="_blank"}, *IMF Economic Review*
+* Working paper: [ECB Working Paper No. 2862](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2862~47f293b3f5.en.pdf){:target="_blank"}
+* Media coverage: [VoxEU](https://cepr.org/voxeu/columns/carbon-leakage-additional-argument-international-cooperation-climate-policies){:target="_blank"}
+* <a href="#/" onclick="visib('abstract_carbontaxes')">Abstract</a>
+<div id="abstract_carbontaxes" style="display: none; text-align: justify; line-height: 100%" ><small>
+This paper examines the impact of national carbon taxes on CO2 emissions. To achieve this, we conduct local projections on a cross-country panel dataset, aligning measures of carbon dioxide emissions with data on the introduction of carbon taxes and their associated prices. Importantly, we consider both territorial emissions — those emitted within a country's borders — and consumption emissions — those emitted globally to satisfy domestic demand. We find that carbon taxes reduce territorial emissions over time but have no significant effect on consumption emissions. Our estimates are robust to propensity-score weighting adjustments, controlling for the role of other environmental policies, and are primarily driven by countries that are more open to trade. In contrast, we find that variation in carbon prices from the European Union's Emissions Trading System (ETS) have a negative impact on both territorial and consumption emissions. Overall, our findings underscore the limitations of national carbon pricing schemes and emphasize the importance of international cooperation in reducing global emissions.</small></div>
 <br/>
 
 ## Works in Progress
