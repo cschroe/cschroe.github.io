@@ -18,7 +18,7 @@ Sonnemannstraße 20
 60314 Frankfurt am Main  
 Germany  
 
-Phone: +49 69 1344 23686
+Phone: +49 69 1344 5319
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +1 403 852 3449 -->
 
 Email: christofer.schroeder at ecb.europa.eu
