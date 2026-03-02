@@ -12,7 +12,7 @@ classes: wide
 
 <img src="{{site.url}}/images/SCH01746.jpeg" width="300" align="left" style="display: block; margin-right: 50px;" /> 
 
-I am an Economist Graduate Programme Participant at the European Central Bank. 
+I am an Economist in the Directorate General Economics at the European Central Bank. 
 
 I hold a PhD in Economics from the Stockholm School of Economics.  My research interests are broadly within the fields of labour economics, climate, and applied macroeconomics.
 
