@@ -38,8 +38,8 @@ Monetary policy decisions by the Federal Reserve System in the US are widely rec
 <br/>
 **Employment Effects of EU-ETS Prices**
 * Working paper: [ECB Working Paper No. 3237](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3237~617a2b8de5.en.pdf?7ebea83a8f52a6800ba4e9ddf3df0339){:target="_blank"}
-* <a href="#/" onclick="visib('abstract_emes')">Abstract</a>
-<div id="abstract_emes" style="display: none; text-align: justify; line-height: 100%" ><small>
+* <a href="#/" onclick="visib('abstract_ets')">Abstract</a>
+<div id="abstract_ets" style="display: none; text-align: justify; line-height: 100%" ><small>
 This paper studies the employment effects of carbon pricing under the European Union's Emissions Trading System (EU-ETS). I refer to standard methods from the literature to define and measure the environmental properties of jobs along two dimensions: how “green” a job is, and how polluting it is. I then leverage a series of shocks to EU-ETS prices to estimate their dynamic impacts on employment. The panel local projections estimates reveal that an exogenous 1% increase in EU-ETS prices leads to a roughly 0.2% decline in employment after one and a half years. Impacts on employment in more polluting jobs are estimated to be even stronger, while impacts on employment in greener jobs are also estimated to be negative, albeit less pronounced. Two factors play an important role in shaping these responses: the allocation of free emissions allowances and the stringency of employment protection legislation. When relatively fewer emissions are covered by free allowances, the negative employment effects of EU-ETS price shocks are stronger. Similarly, when employment protection is greater, the estimated impact is more muted. Average weekly hours of work is found to be an additional margin along which EU-ETS prices impact employment yet the estimated effects are relatively small and short-lived. Together, these findings underscore the economic consequences of carbon pricing, offering valuable insights for policymakers balancing climate objectives with labour market considerations.</small></div>
 <br/>
 
