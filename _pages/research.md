@@ -53,12 +53,6 @@ This paper examines the impact of national carbon taxes on CO2 emissions. To ach
 <br/>
 
 ## Works in Progress
-**Employment Effects of EU-ETS Prices**
-* [Current draft](https://cschroe.github.io/files/schroeder_ets_employment.pdf){:target="_blank"}
-* <a href="#/" onclick="visib('abstract_search')">Abstract</a>
-<div id="abstract_search" style="display: none; text-align: justify; line-height: 100%" ><small>
-This paper studies the employment effects of carbon pricing under the European Union's Emissions Trading System (EU-ETS). Applying standard methods from the literature to data from the EU’s LFS, I define two dimensions of jobs: how “green” and “polluting” a job is. A set of stylized facts shows that the vast majority of workers in Europe work in jobs that are not very green nor very polluting. The average environmental characteristics of jobs vary across countries, over time, and for different subsets of workers. Workers in greener jobs are more likely to be men, highly educated, and to work in urban areas, whereas workers in more polluting jobs are also more likely to be men, less educated, and to work in rural areas. Leveraging a series of exogenous EU-ETS price shocks, this paper then turns to an empirical analysis of their dynamic impacts on employment. The panel local projections estimates reveal that shocks to EU-ETS prices have a negative effect on aggregate employment. A 1% increase in EU-ETS prices is estimated to lead to a roughly 0.2% decline in employment after one and a half years. Impacts on employment in more polluting jobs are estimated to be even stronger, while impacts on employment in greener jobs are also estimated to be negative, albeit less pronounced. Two factors play an important role in shaping these responses: the allocation of free allowances and the degree of employment protection. When relatively fewer emissions are covered by freely allocated allowances, the negative employment effects of EU-ETS price shocks are stronger. Similarly, when employment protection legislation is tighter, the estimated impact is more muted. The findings underscore the economic consequences of carbon pricing, offering valuable insights for policymakers balancing climate objectives with labor market considerations.</small></div>
-<br/>
 **A Model of Search in Credit and Labour Markets with Heterogeneous Workers**
 * [Current draft](https://cschroe.github.io/files/schroeder_bank_labour_search.pdf){:target="_blank"}
 * <a href="#/" onclick="visib('abstract_search')">Abstract</a>
